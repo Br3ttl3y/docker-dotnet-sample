@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "zAaRQVTZ7Vc=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\brett\\projects\\Docker\\docker-dotnet-sample\\src\\myWebApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Npgsql.EntityFrameworkCore.PostgreSQL. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Npgsql.EntityFrameworkCore.PostgreSQL",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
